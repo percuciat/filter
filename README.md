@@ -5,4 +5,4 @@ just copy this source and customize for yourself
 
 ## Demo
 
-[link](https://percuciat.github.io/filter/) - slider
+[link](https://percuciat.github.io/filter/) - filter
